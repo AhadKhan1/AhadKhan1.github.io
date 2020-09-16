@@ -1,0 +1,69 @@
+
+@font-face { font-family: Valorant; src: url('../fonts/Valorant.ttf'); } 
+@font-face { font-family: Slimjoe; src: url('../fonts/Slim\ Joe.otf'); } 
+@font-face { font-family: Bigjohn; src: url('../fonts/BIG\ JOHN.otf'); } 
+
+.navbar-custom .navbar-nav .nav-item .nav-link {
+    font-family: Valorant;
+    text-transform: uppercase;
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.1rem;
+  }
+
+#background1 {
+    background-position: top;
+    background-image: url('../img/bg3.png');
+    
+}
+
+#background2 {
+    background-image: url('../img/bg4.png');
+}
+
+#number1 {
+    background-image: url('../img/1.png');
+}
+
+.fronttitle {
+    font-family: Valorant;  
+   
+}
+
+.icons {
+    padding-right: 10px;
+}
+
+.btn-primary {
+    background: linear-gradient(0.45turn, #fa4454, #aa2d37);
+    border-color: #fa4454;
+}
+
+.btn-primary:active, .btn-primary:focus, .btn-primary:hover {
+    background-color: #fa4454 !important;
+    border-color: #fa4454!important;
+    box-shadow: none;
+}
+
+.navbar-custom .navbar-brand {
+    
+    font-size: 20px;
+    
+  }
+  
+  .navbar-custom .navbar-nav .nav-item .nav-link {
+  
+    font-size: 20px;    
+  }
+
+  .nav-item {
+      padding-left: 50px;
+  }
+
+  .white-bg {
+      background-image: url('../img/wh.jpg');
+  }
+
+  .copyright1 {
+      padding-bottom: 10px;
+  }
